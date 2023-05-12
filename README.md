@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username = UmenoKoudai)](https://github.com/UmenoKoudai)
+[![trophy](https://github-profile-trophy.vercel.app/?username = UmenoKoudai)]
 <!--
 **UmenoKoudai/UmenoKoudai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
